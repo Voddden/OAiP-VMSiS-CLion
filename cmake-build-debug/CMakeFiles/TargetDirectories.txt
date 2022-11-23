@@ -1,0 +1,3 @@
+D:/OAiP-VMSiS-CLion/cmake-build-debug/CMakeFiles/OAiP_VMSiS_CLion.dir
+D:/OAiP-VMSiS-CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OAiP-VMSiS-CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
