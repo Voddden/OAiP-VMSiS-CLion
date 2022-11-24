@@ -1,0 +1,6 @@
+#ifndef VALIDATIONLIB_LIBRARY_H
+#define VALIDATIONLIB_LIBRARY_H
+
+void hello();
+
+#endif //VALIDATIONLIB_LIBRARY_H
